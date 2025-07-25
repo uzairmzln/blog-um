@@ -16,7 +16,9 @@
         </div>
     </div>
     <Carousel />
-    <Projects />
+    <div id="projects">
+        <Projects />
+    </div>
 </template>
 <script setup>
 import Navbar from '../Navbar.vue';
