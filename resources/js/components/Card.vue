@@ -56,7 +56,7 @@ const cardData = ref([
         imageSrc: '/images/spot.png',
         imageAlt: 'Project Spotify',
         seeButtonLabel: 'Live',
-        seeButtonUrl: 'https://dev-laravue.site/',
+        seeButtonUrl: 'https://spotify-app-api.dev-laravue.site/',
         saveButtonLabel: 'Source Code',
         saveButtonUrl: 'https://github.com/uzairmzln/spotify-app-api',
     },
